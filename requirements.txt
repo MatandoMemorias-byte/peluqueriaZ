@@ -1,0 +1,7 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14
+python-decouple>=3.8
+psycopg2-binary>=2.9
+hypothesis>=6.100
+pytest-django>=4.7
+pytest>=7.4
